@@ -99,15 +99,15 @@ body {
      background-position: center center;
      color: #fff;
 }
-.img-background--worms {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://images.universal-music.de/img/assets/267/267710/881/Lana-del-Rey.jpg');
+.img-background--smuta {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/smuta.png');
 }
-.img-background--clan {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://ibb.co/9cb3kvc');
+.img-background--smuta2 {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/smuta2.png');
 }
 
-.img-background--lana {
-     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://ibb.co/vZbS26f');
+.img-background--smuta4 {
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/smuta4.png');
      background-size: cover;
      background-repeat: no-repeat;
      color: #fff;
