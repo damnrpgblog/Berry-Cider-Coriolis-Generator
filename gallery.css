@@ -42,11 +42,11 @@
   cursor: pointer;
 }
 
-.gallery .mainImg i.fa-chevron-left {
+.gallery .mainImg i.fa-fa-chevron-left {
   left: 0;
   color: #000000
 }
-.gallery .mainImg i.fa-chevron-right {
+.gallery .mainImg i.fa-fa-chevron-right {
   right: 0;
   color: #000000
 }
