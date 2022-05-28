@@ -49,6 +49,10 @@ color: #F0F8FF;
   outline-width: 1vw;
 }
 
+#grid > div:hover {
+background-color: transparent;
+}
+
 div#row1a,div#row2a,div#row3a,div#row3b,div#row4a,div#row5a,div#row5b,div#row6a{
   background-color:rgba(64,67,78,0.4);
 }
