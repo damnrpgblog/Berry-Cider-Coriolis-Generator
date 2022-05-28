@@ -69,7 +69,7 @@ body {
 	 width: 100%;
 	 height: 100%;
 	 background-size: auto 588px;
-	 animation: animation_object linear 125s infinite both;
+	 animation: animation_object linear 200s infinite both;
 }
 
 .object-2 {
@@ -81,7 +81,7 @@ body {
 	 width: 100%;
 	 height: 100%;
 	 background-size: auto 190px;
-	 animation: animation_object linear 99s infinite both;
+	 animation: animation_object linear 125s infinite both;
 }
 @keyframes animation_fg {
  0% {
