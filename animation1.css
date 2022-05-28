@@ -23,7 +23,7 @@ body {
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 720px;
+	 background-size: auto 1080px;
 }
 .layer-3 {
      animation: animation_fg linear 95s infinite both; 
@@ -34,7 +34,7 @@ body {
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 524px;
+	 background-size: auto 787px;
 }
 
 .layer-2 {
@@ -46,7 +46,7 @@ body {
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 588px;
+	 background-size: auto 883px;
 }
 
 .layer-1 {
@@ -58,7 +58,7 @@ body {
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 84px;
+	 background-size: auto 127px;
 }
 .object-1 {
      background: url(https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/animation/monster.png) 0 100% no-repeat;
@@ -68,7 +68,7 @@ body {
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 588px;
+	 background-size: auto 883px;
 	 animation: animation_object linear 200s infinite both;
 }
 
@@ -80,7 +80,7 @@ body {
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 190px;
+	 background-size: auto 286px;
 	 animation: animation_object linear 125s infinite both;
 }
 @keyframes animation_fg {
