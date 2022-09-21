@@ -100,14 +100,14 @@ body {
      color: #fff;
 }
 .img-background--smuta {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/smuta.png');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/anime.jpg');
 }
 .img-background--smuta2 {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/smuta2.png');
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/anime2.jpg');
 }
 
 .img-background--smuta4 {
-     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githubusercontent.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/smuta4.png');
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/Eleven11Spiders/Berry-Cider-Coriolis-Generator/main/anime3.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      color: #fff;
